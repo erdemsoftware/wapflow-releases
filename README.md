@@ -9,7 +9,7 @@
 **WapFlow Windows**, WhatsApp hesaplarınızı kendi bilgisayarınızda çalıştırdığınız masaüstü uygulamasıdır:
 kampanya gönderimi, yapay zekâ destekli oto-yanıt, gelen kutusu, grup ve kanal araçları, Google Maps'ten rehber oluşturma.
 
-Lisans **[wapflow.net](https://wapflow.net)** üzerinden satın alınır ve **[hesap.wapflow.net](https://hesap.wapflow.net)** panelinden yönetilir.
+Lisans **[wapflow.net](https://wapflow.net)** üzerinden satın alınır ve aynı hesaptan yönetilir.
 
 > Bu depo yalnızca **derlenmiş kurulum dosyalarını** barındırır. Kaynak kod bu depoda **bulunmaz**.
 
@@ -22,7 +22,7 @@ Uygulama yeni sürümleri kendiliğinden bulur ve günceller; elle indirmeniz ge
 ## Sistem gereksinimleri
 
 - Windows 10 / 11 (64 bit)
-- En az 8 GB RAM (hesap sayısı arttıkça daha fazlası önerilir)
+- En az 2 GB RAM (aynı anda çalışan hesap sayısı arttıkça daha fazlası önerilir)
 - İnternet bağlantısı
 
 ## Kurulum
